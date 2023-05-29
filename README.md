@@ -11,7 +11,7 @@ I have been making scripts and little programs to solve professional needs all m
 *   🧠  I'm learning SageMaker, MongoDb
 *   🤝  I'm open to collaborating on Financial /trading and data science related projects.### Skills 
 
-<p align="left">
+
 ### Technologies
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -25,9 +25,7 @@ I have been making scripts and little programs to solve professional needs all m
 <a href="https://www.linkedin.com/in/jagarciad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
-
 <div style="text-align:center">
 <a href="http://www.github.com/javiergarciad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javiergarciad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-</p>
+
 
