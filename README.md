@@ -1,7 +1,7 @@
 ## Financial professional and backend developer
 
 
-I have been making scripts and little programs to solve professional needs all my professional life (+10 yrs) but have taken it seriously the last 4 years since I've been working as an developer. I have a professional background in finances and I am very interested in data science and algorithmic trading-related themes.
+Throughout my extensive tenure in finance spanning over a decade, I have acquired a diverse skill set and expertise in trading and quantitative analysis. My proficiency in devising innovative scripts and small programs to fulfill professional demands has been honed through my experience on the trading desk and as a quant. In the past four years, my focus has been on enhancing my programming skills to tackle more intricate and complex problems. This has enabled me to be better equipped to onboard challenges that require a deeper level of comprehension and programming proficiency.
 
 *   🌍  I'm based in Colombia
 *   ✉️  You can contact me at [javier.garcia.d@gmail.com](mailto:javier.garcia.d@gmail.com)
