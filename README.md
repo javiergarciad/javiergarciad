@@ -1,16 +1,11 @@
-# Hi 👋 My name is Javier
-
 ## Financial professional and backend developer
 
 
-I have been making scripts and little programs to solve professional needs all my professional life (+10 yrs) but have taken it seriously the last 4 years since I've been working as an independent developer. I have a professional background in finances and I am very interested in data science and algorithmic trading-related themes.
+I have been making scripts and little programs to solve professional needs all my professional life (+10 yrs) but have taken it seriously the last 4 years since I've been working as an developer. I have a professional background in finances and I am very interested in data science and algorithmic trading-related themes.
 
 *   🌍  I'm based in Colombia
 *   ✉️  You can contact me at [javier.garcia.d@gmail.com](mailto:javier.garcia.d@gmail.com)
-*   🚀  I'm currently working on [Quanttio](http://quanttio.com)
-*   🧠  I'm learning SageMaker, MongoDb
-*   🤝  I'm open to collaborating on Financial /trading and data science related projects.### Skills 
-
+*   🚀  I'm currently working on [Algoseek](https://algoseek.com)
 
 ### Technologies
 
