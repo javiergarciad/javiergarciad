@@ -1,4 +1,4 @@
-## Financial professional and backend developer
+## Finance and Data Engenieering
 
 
 Throughout my extensive tenure in finance spanning over a decade, I have acquired a diverse skill set and expertise in trading and quantitative analysis. My proficiency in devising innovative scripts and small programs to fulfill professional demands has been honed through my experience on the trading desk and as a quant. In the past four years, my focus has been on enhancing my programming skills to tackle more intricate and complex problems. This has enabled me to be better equipped to onboard challenges that require a deeper level of comprehension and programming proficiency.
